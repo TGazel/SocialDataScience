@@ -56,7 +56,7 @@ The "c" in the above vector assignment stands for combine into a vector. The ele
 You can see the result by typing the variable name to the console.
 ```{r}
 a
-b
+b 
 ```
 
 ```{r}
